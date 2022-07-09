@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = abitouhami26@gmail.com
+	name = touhami abi
